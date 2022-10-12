@@ -2,6 +2,12 @@
 
 
 .cst-btn{
-    color: #3a9ff2;
-    border-color: #3a9ff2;
+    color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+.cst-btn:hover{
+    color: #fff;
+    border-color: #fff;
+    background-color: #0d6efd;
 }
